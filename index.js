@@ -1,21 +1,11 @@
-(function() {
-  "use strict";
-
-class Widget {
-  constructor() {
+(function main() {
+ "use strict";
+  
+  const CoreClass = () => {
     
   }
-
-  appendTo(elem) {
+  
+  const UiClass = () => {
     
   }
-}
-
-class Core {
-
-}
-
-class CoreUI {
-}
-
 })
