@@ -1,4 +1,5 @@
-"use strict";
+(function() {
+  "use strict";
 
 class Widget {
   constructor() {
@@ -16,3 +17,5 @@ class Core {
 
 class CoreUI {
 }
+
+})
