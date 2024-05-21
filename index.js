@@ -2,9 +2,15 @@
  "use strict";
 
  class ByteCord {}
- 
- class ByteCord_LightTheme extends ByteCord {
+
+ class Theme {
   
+ }
+ 
+ class LightTheme extends Theme {
+  constructor() {
+   super();
+  }
  }
  
 })
